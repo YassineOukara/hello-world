@@ -1,4 +1,4 @@
 # hello-world
-Questo è il nostro prime repo su github
+Questo è il nostro primo repo su github
 
 faccio una modifica locale
